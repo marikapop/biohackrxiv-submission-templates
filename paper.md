@@ -1,26 +1,33 @@
 ---
-title: 'BioHackrXiv  template'
+title: 'BioHackDE23 Projec 7: Towards Machine-Actionable Information Collection for Human Data Research and Beyond'
 tags:
-  - replace with your own keywords
-  - at least 3 is recommended
+  - machine actionability
+  - Data Stewardship Wizard
+  - replace with your own keywords (TODELETE)
+  - at least 3 is recommended (TODELETE)
 authors:
-  - name: First Last
-    orcid: 0000-0000-0000-0000
+  - name: Marina Popleteeva
+    orcid: 0000-0002-8409-6147
     affiliation: 1
-  - name: Second Last
+  - name: Jan Slifka
     orcid: 0000-0000-0000-0000
     affiliation: 2
+  - name: Paulette Lieby
+    orcid: 0000-0000-0000-0000
+    affiliation: 3
 
 affiliations:
- - name: Institution 1, address, city, country
+ - name: Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg, 1 Boulevard du Jazz, Belvaux, Luxembourg
    index: 1
- - name: Institution 1, address, city, country
+ - name: Institution 2, address, city, country
    index: 2
-date: 01 January 2020
+ - name: Institution 3, address, city, country
+   index: 3
+date: 15 December 2023
 bibliography: paper.bib
-authors_short: Last et al. (2021) BioHackrXiv  template
+authors_short: Popleteeva, Slifka, Lieby (2023)
 group: BioHackrXiv
-event: BioHackathon Europe 2021
+event: BioHackathon Germany 2023
 ---
 
 # Introduction or Background
